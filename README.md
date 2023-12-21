@@ -83,7 +83,7 @@ else:
  
 
 # Output : 
-![image](https://github.com/sreeniveditaa/Poisson_distribution/assets/147473268/e5f3a397-4b1d-4b83-b45c-d88a290aeba6)
+![image](https://github.com/sreeniveditaa/Poisson_distribution/assets/147473268/72811b7d-fb93-4c08-88a9-851e2e320f2c)
 
 
 
